@@ -1,14 +1,7 @@
 
 Project: Lung Cancer Detection System using Machine Learning and CNN
-Group Name: Foxtrot
-Date: March 27, 2026
 
-Group Members:
-- Colton Candido
-- Bindu Chandra Shekhar Reddy
-- Pravallika Dharmavarapu
 - Nikhitha Maganti
-- Roopal Dixit
 
 
 Overview
